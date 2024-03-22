@@ -6,6 +6,8 @@
   <a href="https://www.linkedin.com/in/navid-memari/" target="_blank"><img src="https://img.shields.io/badge/Check%20Out%20My%20LinkedIn-3260A8"/></a>
 </div>
 
+<p>You should totally check out all the projects I've done because they're super cool and epic and awesome</p>
+
 <h1>🔨 Technologies & Tools</h1>
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="" />

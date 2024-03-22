@@ -1,5 +1,9 @@
 <h1>👋 Hi there! I'm Navid </h1>
-<p>A digital designer and developer who makes apps and websites (sometimes games too)</p>
+<p>A digital designer and developer who makes silly (and serious) apps and websites (sometimes games too)</p>
+
+<div>
+  <a href="https://navidmemari.com"><img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-8A2BE2"/></a>
+</div>
 
 <h1>🔨 Technologies & Tools</h1>
 <div>

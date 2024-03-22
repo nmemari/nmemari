@@ -1,12 +1,10 @@
 <h1>👋 Hi there! I'm Navid </h1>
-<p>A digital designer and developer who makes silly (and serious) apps and websites (sometimes games too)</p>
+<p>A digital designer and developer who makes silly (and serious) apps and websites (sometimes games too). You should totally check out all the projects I've done because they're super cool and epic and awesome</p>
 
 <div>
   <a href="https://navidmemari.com" target="_blank"><img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-8A2BE2"/></a>
   <a href="https://www.linkedin.com/in/navid-memari/" target="_blank"><img src="https://img.shields.io/badge/Check%20Out%20My%20LinkedIn-3260A8"/></a>
 </div>
-
-<p>You should totally check out all the projects I've done because they're super cool and epic and awesome</p>
 
 <h1>🔨 Technologies & Tools</h1>
 <div>

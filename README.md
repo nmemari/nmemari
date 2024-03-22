@@ -1,7 +1,7 @@
 <h1>👋 Hi there! I'm Navid </h1>
 
 <h1>🔨 Technologies & Tools</h1>
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt=""/>
 <!--
 **nmemari/nmemari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
